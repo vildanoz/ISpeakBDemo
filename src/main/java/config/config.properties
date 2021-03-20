@@ -1,0 +1,9 @@
+browser = chrome
+headless = no
+elementflash = no
+url = https://ispeakbetter.com/
+username = 
+password = 
+incognito = no
+incorrectUsername=johnsmith123@yahoo.com
+incorrectpassword=admin
