@@ -1,5 +1,5 @@
 # Java related
-.target/**
+.target/
 *.jar
 *.war
 *.ear
@@ -17,7 +17,7 @@ tmp/**/*
 *.swp
 *~.nib
 local.properties
-.config
+/*.properties
 .classpath
 .settings/
 .loadpath
